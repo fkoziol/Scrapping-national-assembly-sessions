@@ -13,3 +13,6 @@ First steps of data processing, mostly by eliminating usual and custom stop word
 Used to get all deputies metadatas on a single csv file. The given csv still need a small post-data cleaning, cleaning null rows that are the ones standing for the most inactive deputies. This will be fixed on later updates.
 
 Of course, the output from these two notebooks have been made to be joinable on the "nom" (name) column.
+
+# Data processing and topic modelling
+As implied in the name, this notebook contains some data processing, a failed topic modelling attempt, and a working topic modelling algorithm.
